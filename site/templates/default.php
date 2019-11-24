@@ -11,6 +11,10 @@
     <title><?= $page->title() ?></title>
     <style>
       body {
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        
 
       }
 
@@ -35,7 +39,43 @@
       }
       .fourCom{
         padding-bottom: 60px;
+        justify-content:space-between;
       }
+      .fourCom p{
+        padding-top: 60px;
+      }
+      .digitalTools{
+        display:flex;
+        justify-content: space-around;
+        padding-top: 60px;
+
+      }
+      ul{
+        list-style:none;
+      }
+      .poes5{
+        width:35vw;
+        height:30vh;
+      }
+      .WTP{
+        display:flex;
+        justify-content:center;
+        flex-direction:column;
+        padding-top:60px;
+        }
+        .wtpp{
+          font-weight: bold;
+        }
+        .quote{
+padding:40px;
+        }
+        .bibliography{
+          color: grey;
+
+        }
+        .bibliography li{
+          padding:10px;
+        }
    </style>
   </head>
   <body>
@@ -93,7 +133,80 @@ Je hebt je uiteindelijke ontwerp bij de opdrachtgever opgeleverd om er uiteindel
      beslissingen. (Hinfelaar, 2014)</p>
 <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes1">
 </div>
+</div>
+<div class="container fourCom">
+      <p> <b> Aan de slag met wireframes</b></p>
+      <p>Je vraagt ​​je misschien OK, maar welk programma heb ik nodig om een ​​wireframe te maken? Namelijk van geen enkel <br>
+       programma! Het enigste wat je nodig hebt is een stuk papier en iets om mee te schetsen</p>
+    <div class="row">
 
+    <div class="col-sm">
+   <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+      </div>
+
+    <div class="col-sm">
+      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+    </div>
+    <div class="col-sm">
+
+      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+    </div>
+    </div>
+    <p>Daarbij zijn er wel degelijk digitale softwarepakketten die je helpen om tot hi-fi prototypes te komen. Zulke traditionele <br>
+ wireframes zijn handig bij het presenteren van je idee aan je team of opdrachtgever. (Rowe, 2017)
+</p>
+    </div>
+</div>
+    <div class="digitalTools">
+    <div>
+    <ul>
+    <p> <b> Digitale tools </b></p>
+    <li>> Omnigraffle.</li>
+    <li>> Axure.</li>
+    <li>> Adobe XD.</li>
+    <li>> Balsamiq.</li>
+    <li>> Illustrator</li>
+    </ul>
+    </div>
+    <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes5">
+
+
+    </div>
+    
+  </div>
+    </div>
+    <div class="WTP container">
+    <p class="wtpp">
+    Van wireframes naar een afgewerkt product
+    </p>
+    <p>
+    Focus op de gebruikerservaring met wireframing en later op het visuele aspect.
+Wireframes dienen als een middenweg tussen pen-en-papierschets en hi-fi prototype. Ze helpen bij het plannen van de 
+lay-out en interactiepatronen zonder afleidende details zoals kleuren of kopieën. De voorgestelde gebruikersreis moet
+ duidelijk zijn zonder kleur of arcering of mooie menu's.
+    </p>
+    <p>
+    Het feit dat wireframes een lo-fi prototype is maakt deze tool krachtig.
+Prototyping is effectief en praktisch manier om een ​​ontwerp en de bedoeling ervan duidelijk te demonstreren en te ervaren. Het helpt de waardepropositie van strategieën, kaders en interacties aan te tonen. Johnathan Smiley, een van de makers van een ander responsief webkader - Zurb Foundation benadrukt de noodzaak van vroeg en vaak prototyping.
+</p>
+    </div>
+
+    <blockquote class="blockquote text-center quote">
+  <p class="mb-0">"Prototyping is een krachtige en zelden geoefende methode die nog belangrijker is nu we zoveel soorten apparaten hebben en zoveel manieren waarop mensen zullen communiceren met de dingen die we ontwerpen" </p>
+  <footer class="blockquote-footer">Smiley in 2012<cite title="Source Title">Source Title</cite></footer>
+</blockquote>
+
+<div class="bibliography container">
+<p></p>
+<ul>
+<li>Hamm, M. J. (2014). Wireframing essentials. An introduction to user experience design. In Wireframing essentials. An introduction to user experience design. Birmingham, VK: Packet publishing LTD.</li>
+<li>
+HINFELAAR, M. (2014, juni 24). Design Principles; uitgangspunten voor een goed ontwerp. Opgeroepen op november 21, 2019, van https://www.jungleminds.nl: https://www.jungleminds.nl/blog/design-principles-uitgangspunten-voor-een-goed-ontwerp/</li>
+<li> Rowe, B. (Auteur), & Mastery, U. (Regisseur). (2017). Wireframing for UX: What it is and how to get better at it [Film]. Australie.</li>
+<li>Smiley, J. (2012, april 10). Dive into Responsive Prototyping with Foundation. Opgeroepen op november 21, 2019, van Alistapart.com: https://alistapart.com/article/dive-into-responsive-prototyping-with-foundation/</li>
+<li> Zurb Foundation (prototyping). (sd). Opgehaald van foundation.zurb: http://foundation.zurb.com/</li>
+</ul>
+</div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
