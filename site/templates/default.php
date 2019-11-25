@@ -34,8 +34,8 @@
         height: 60vh;
       }
       .poes4{
-        width: 10vw;
-        height: 10vh;
+        width: 11vw;
+        height: 14vh;
       }
       .fourCom{
         padding-bottom: 60px;
@@ -43,6 +43,7 @@
       }
       .fourCom p{
         padding-top: 60px;
+        padding-left:6vw;
       }
       .digitalTools{
         display:flex;
@@ -76,14 +77,28 @@ padding:40px;
         .bibliography li{
           padding:10px;
         }
+        h1{
+          font-size:30px;
+          text-align:center;
+        }
+        .poes5{
+          width: 20vw;
+         height: 24vh;
+}
+        .row{
+          padding-left:10vw;
+          padding-right:10vw;
+        }
+        }
    </style>
   </head>
   <body>
+    <h1>Home > Ik wil > verbeelden en uitwerken > Wireframing</h1>
     <div class="containerG">
       <div class="wireframing">
 <p><b>Wireframing</b></p>    
 <p>Hoe gebruik je ze en waar zijn ze nou eigenlijk goed voor</p>
-<img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes1">
+<img src=" https://www.mediabistro.com/wp-content/uploads/2015/10/writers-website.jpg" alt="poes" class="poes1">
 </div>
     </div>
     <div class="containerG">
@@ -95,7 +110,7 @@ Je hebt je uiteindelijke ontwerp bij de opdrachtgever opgeleverd om er uiteindel
    een digitaal product een realiteit te maken. Denk aan een wireframe zoals een blauwdruk van een gebouw, maar dan voor <br>
     een digitaal product.
 </p>
-<img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes2">
+<img src=" https://www.pecora.com/wp-content/uploads/2015/11/contractor-header-e1455888884742.jpg" alt="poes" class="poes2">
 </div>
     </div>
 
@@ -104,22 +119,22 @@ Je hebt je uiteindelijke ontwerp bij de opdrachtgever opgeleverd om er uiteindel
     <div class="row">
     <div class="col-sm">
 <p>Structuur</p>   
-   <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+   <img src="http://goef.nl/img/1.jpeg" alt="poes" class="poes4">
 
     </div>
     <div class="col-sm">
     <p>Layout</p>   
-      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+      <img src="http://goef.nl/img/2.jpeg" alt="poes" class="poes4">
 
     </div>
     <div class="col-sm">
     <p>Content</p>   
-      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+      <img src="http://goef.nl/img/3.jpeg" alt="poes" class="poes4">
 
     </div>
     <div class="col-sm">
     <p>Functie</p>   
-      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+      <img src="http://goef.nl/img/4.jpeg" alt="poes" class="poes4">
 
     </div>
   </div>
@@ -131,7 +146,7 @@ Je hebt je uiteindelijke ontwerp bij de opdrachtgever opgeleverd om er uiteindel
    (Onderbouwd aan de hand van onderzoeksresultaten), waarin de essentie van de ervaring die een gebruiker met je product <br>
     of dienst heeft wordt beschreven. Ze geven richting aan het ontwerpproces en bieden houvast bij het nemen van <br>
      beslissingen. (Hinfelaar, 2014)</p>
-<img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes1">
+<img src=" https://www.wirify.com/wp/wp-content/uploads/2011/04/Guardian-wireframe-in-OmniGraffle-using-Wirify-Pro-with-headings.jpg" alt="poes" class="poes1">
 </div>
 </div>
 <div class="container fourCom">
@@ -141,15 +156,15 @@ Je hebt je uiteindelijke ontwerp bij de opdrachtgever opgeleverd om er uiteindel
     <div class="row">
 
     <div class="col-sm">
-   <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+   <img src="http://goef.nl/img/5.jpeg" alt="poes" class="poes5">
       </div>
 
     <div class="col-sm">
-      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+      <img src="https://assets.justinmind.com/wp-content/uploads/2019/07/web-wireframe-sketching-example.png" alt="poes" class="poes5">
     </div>
     <div class="col-sm">
 
-      <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes4">
+      <img src=" https://mentormate.com/wp-content/uploads/2018/05/all-wireframes-1030x585.jpg" alt="poes" class="poes5">
     </div>
     </div>
     <p>Daarbij zijn er wel degelijk digitale softwarepakketten die je helpen om tot hi-fi prototypes te komen. Zulke traditionele <br>
@@ -168,7 +183,7 @@ Je hebt je uiteindelijke ontwerp bij de opdrachtgever opgeleverd om er uiteindel
     <li>> Illustrator</li>
     </ul>
     </div>
-    <img src="https://www.zooplus.nl/magazine/wp-content/uploads/2018/08/arriv%C3%A9e-dun-chaton-%C3%A0-la-maison.jpeg" alt="poes" class="poes5">
+    <img src=" https://www.harnessprojects.com.au/wp-content/uploads/2018/04/tools-700x385.png" alt="poes" class="poes5">
 
 
     </div>
@@ -191,13 +206,13 @@ Prototyping is effectief en praktisch manier om een ​​ontwerp en de bedoelin
 </p>
     </div>
 
-    <blockquote class="blockquote text-center quote">
-  <p class="mb-0">"Prototyping is een krachtige en zelden geoefende methode die nog belangrijker is nu we zoveel soorten apparaten hebben en zoveel manieren waarop mensen zullen communiceren met de dingen die we ontwerpen" </p>
-  <footer class="blockquote-footer">Smiley in 2012<cite title="Source Title">Source Title</cite></footer>
+    <blockquote class="blockquote text-center quote container">
+  <p class="mb-0"> <b>"Prototyping is een krachtige en zelden geoefende methode die nog belangrijker is nu we zoveel soorten apparaten hebben en zoveel manieren waarop mensen zullen communiceren met de dingen die we ontwerpen"</b> </p>
+  <footer class="blockquote-footer">Smiley in 2012</footer>
 </blockquote>
 
 <div class="bibliography container">
-<p></p>
+<h1>Bibliography</h1>
 <ul>
 <li>Hamm, M. J. (2014). Wireframing essentials. An introduction to user experience design. In Wireframing essentials. An introduction to user experience design. Birmingham, VK: Packet publishing LTD.</li>
 <li>
