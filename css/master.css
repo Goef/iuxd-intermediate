@@ -1,0 +1,80 @@
+body {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    
+
+  }
+
+  .containerG{
+    display:flex;
+    justify-content:center;
+
+  }
+
+  .poes1{
+    width: 60vw;
+    height: 80vh;
+    padding-bottom:40px;
+  }
+  .poes2{
+    width: 60vw;
+    height: 60vh;
+  }
+  .poes4{
+    width: 11vw;
+    height: 14vh;
+  }
+  .fourCom{
+    padding-bottom: 60px;
+    justify-content:space-between;
+  }
+  .fourCom p{
+    padding-top: 60px;
+    padding-left:6vw;
+  }
+  .digitalTools{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 60px;
+
+  }
+  ul{
+    list-style:none;
+  }
+  .poes5{
+    width:35vw;
+    height:30vh;
+  }
+  .WTP{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    padding-top:60px;
+    }
+    .wtpp{
+      font-weight: bold;
+    }
+    .quote{
+    padding:40px;
+    }
+    .bibliography{
+      color: grey;
+
+    }
+    .bibliography li{
+      padding:10px;
+    }
+    h1{
+      font-size:30px;
+      text-align:center;
+    }
+    .poes5{
+      width: 20vw;
+     height: 24vh;
+}
+    .row{
+      padding-left:10vw;
+      padding-right:10vw;
+    }
+    }
