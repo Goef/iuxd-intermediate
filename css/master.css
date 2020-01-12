@@ -1,80 +1,89 @@
-body {
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    
+/* body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
+html, body{
+  /* margin: 0;
+  height:100%; */
+  overflow-x: hidden;
+  background-color:#94D1FE;
 
-  }
-
-  .containerG{
-    display:flex;
-    justify-content:center;
-
-  }
-
-  .poes1{
-    width: 60vw;
-    height: 80vh;
-    padding-bottom:40px;
-  }
-  .poes2{
-    width: 60vw;
-    height: 60vh;
-  }
-  .poes4{
-    width: 11vw;
-    height: 14vh;
-  }
-  .fourCom{
-    padding-bottom: 60px;
-    justify-content:space-between;
-  }
-  .fourCom p{
-    padding-top: 60px;
-    padding-left:6vw;
-  }
-  .digitalTools{
-    display:flex;
-    justify-content: space-around;
-    padding-top: 60px;
-
-  }
-  ul{
-    list-style:none;
-  }
-  .poes5{
-    width:35vw;
-    height:30vh;
-  }
-  .WTP{
-    display:flex;
-    justify-content:center;
-    flex-direction:column;
-    padding-top:60px;
-    }
-    .wtpp{
-      font-weight: bold;
-    }
-    .quote{
-    padding:40px;
-    }
-    .bibliography{
-      color: grey;
-
-    }
-    .bibliography li{
-      padding:10px;
-    }
-    h1{
-      font-size:30px;
-      text-align:center;
-    }
-    .poes5{
-      width: 20vw;
-     height: 24vh;
 }
-    .row{
-      padding-left:10vw;
-      padding-right:10vw;
-    }
-    }
+
+.convo2svg{
+  display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 34vh;
+
+}
+
+
+
+.container2SVG{
+  display: flex;
+  flex-direction: column;
+  height:20vh;
+  width:22vw;
+  margin-left: 4vw;
+}
+
+.convoLeft {
+  display:flex;
+  justify-content: flex-start;
+  /* float: left; */
+  height: 34vh;
+  /* margin-left: -14vw; */
+}
+
+.convoRight {
+  display:flex;
+justify-content: flex-end;
+  /* float: right; */
+  height: 34vh;
+  /* margin-right: -12vw; */
+
+}
+/* .contaier{
+  display: flex;
+  flex-direction: column;
+} */
+.rightAndImg{
+  float: right;
+  height: 34vh;
+
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.containerSVG{
+  height:34vh;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.containerSVGLeft{
+  height:34vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.containerSVGLeft img:first-child{
+  margin-right:9vw;
+}
+.containerSVGLeft img:nth-child(2){
+margin-right:18vw;
+}
+
+.containerSVG img:first-child{
+  margin-left:9vw;
+}
+.containerSVG img:nth-child(2){
+margin-left:18vw;
+}
+.hidden{
+  visibility: hidden;
+}
