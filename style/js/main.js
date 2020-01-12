@@ -29,7 +29,7 @@ $(window).scroll(function() {
     if (wS > (hT+hH-wH)){
       var convo2 = document.getElementById("convo2");
       convo2.classList.add("animated");
-      convo2.classList.add("bounceInLeft")
+      convo2.classList.add("bounceInRight")
       document.getElementById("convo2").style.visibility = "visible";
 
 
@@ -63,7 +63,7 @@ $(window).scroll(function() {
     if (wS > (hT+hH-wH)){
       var convo4 = document.getElementById("convo4");
       convo4.classList.add("animated");
-      convo4.classList.add("bounceInLeft")
+      convo4.classList.add("bounceInRight")
       document.getElementById("convo4").style.visibility = "visible";
 
 
@@ -95,7 +95,7 @@ $(window).scroll(function() {
   if (wS > (hT+hH-wH)){
     var convo6 = document.getElementById("convo6");
     convo6.classList.add("animated");
-    convo6.classList.add("bounceInLeft")
+    convo6.classList.add("bounceInRight")
     document.getElementById("convo6").style.visibility = "visible";
 
 
@@ -127,7 +127,7 @@ $(window).scroll(function() {
   if (wS > (hT+hH-wH)){
     var convo8 = document.getElementById("convo8");
     convo8.classList.add("animated");
-    convo8.classList.add("bounceInLeft")
+    convo8.classList.add("bounceInRight")
     document.getElementById("convo8").style.visibility = "visible";
 
 
