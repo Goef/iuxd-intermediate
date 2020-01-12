@@ -19,7 +19,7 @@
     <div class=" animated bounceInRight delay-1s convoRight">
     <img src="./style/img/convo/2.png" alt="poes" class="" >
     </div>
-    <div class=" animated bounceInLeft delay-2s containerSVG" >
+    <div class=" animated bounceInRight delay-2s containerSVG" >
       <img src="./style/img/convo/1icon.svg" alt="" class="svg">
     <img src="./style/img/convo/3.png" class="" alt="poes">
 </div>
