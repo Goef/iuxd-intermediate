@@ -1,89 +1,39 @@
-/* body {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-} */
-html, body{
-  /* margin: 0;
-  height:100%; */
+html,
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
   overflow-x: hidden;
-  background-color:#94D1FE;
-
+  background-image: url("../style/img/convo/bg.png");
 }
-
-.convo2svg{
-  display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 34vh;
-
+.empty {
+  height: 150vh;
 }
-
-
-
-.container2SVG{
-  display: flex;
-  flex-direction: column;
-  height:20vh;
-  width:22vw;
-  margin-left: 4vw;
-}
-
 .convoLeft {
-  display:flex;
+  display: flex;
   justify-content: flex-start;
-  /* float: left; */
-  height: 34vh;
-  /* margin-left: -14vw; */
+  height: 20vh;
 }
 
 .convoRight {
-  display:flex;
-justify-content: flex-end;
-  /* float: right; */
-  height: 34vh;
-  /* margin-right: -12vw; */
-
-}
-/* .contaier{
   display: flex;
-  flex-direction: column;
-} */
-.rightAndImg{
-  float: right;
-  height: 34vh;
-
+  justify-content: flex-end;
+  height: 20vh;
 }
-
-img{
+.plaatje {
+  text-align: center;
+  height: 40vh;
+}
+.emptyPart {
+  height: 40vh;
+}
+.emptyPartLofi {
+  height: 60vh;
+}
+img {
   max-width: 100%;
   max-height: 100%;
 }
-.containerSVG{
-  height:34vh;
-display: flex;
-flex-direction: row;
-justify-content: space-between;
-}
-.containerSVGLeft{
-  height:34vh;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-.containerSVGLeft img:first-child{
-  margin-right:9vw;
-}
-.containerSVGLeft img:nth-child(2){
-margin-right:18vw;
-}
 
-.containerSVG img:first-child{
-  margin-left:9vw;
-}
-.containerSVG img:nth-child(2){
-margin-left:18vw;
-}
-.hidden{
-  visibility: hidden;
+.conclusie {
+  height: 350vh;
 }
