@@ -166,7 +166,7 @@ $(window).scroll(function() {
   if (wS > (hT+hH-wH)){
     var convo10 = document.getElementById("convo10");
     convo10.classList.add("animated");
-    convo10.classList.add("bounceInLeft")
+    convo10.classList.add("bounceInRight")
     document.getElementById("convo10").style.visibility = "visible";
 
 
@@ -198,7 +198,7 @@ $(window).scroll(function() {
   if (wS > (hT+hH-wH)){
     var convo12 = document.getElementById("convo12");
     convo12.classList.add("animated");
-    convo12.classList.add("bounceInLeft")
+    convo12.classList.add("bounceInRight")
     document.getElementById("convo12").style.visibility = "visible";
 
 

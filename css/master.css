@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   overflow-x: hidden;
-  background-image: url("../style/img/convo/bg.png");
+  background-image: url("../style/img/convo/bg.jpg");
 }
 .empty {
   height: 150vh;
@@ -21,12 +21,13 @@ body {
 }
 .plaatje {
   text-align: center;
+  margin-top: 8vh;
 }
 .emptyPart {
   height: 40vh;
 }
 .emptyPartLofi {
-  height: 60vh;
+  height: 20vh;
 }
 img {
   max-width: 100%;

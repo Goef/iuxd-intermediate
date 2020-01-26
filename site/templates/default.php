@@ -52,6 +52,8 @@
         <!-- Hoe dan -->
         <div class="emptyPart">
         </div>
+        <div class="emptyPartLofi">
+        </div>
         <div class=" convoLeft" style="  visibility: hidden;" id="convo8" >
             <img src="./style/img/convo/8.png" class="" alt="poes">
         </div>
@@ -63,7 +65,7 @@
 <!-- LOFI -->
 <div class="emptyPart">
         </div>
-        <div class="emptyPart">
+        <div class="emptyPartLofi">
         </div>
         <div class=" convoRight" style="  visibility: hidden;" id="convo10" >
             <img src="./style/img/convo/10.png" class="" alt="poes">
