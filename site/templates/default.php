@@ -32,7 +32,7 @@
             <img src="./style/img/convo/4.png" alt="poes" class="">
         </div>
         <div class="plaatje">
-            <img src="./style/img/convo/plaatj.png">
+            <img style = "height:36vh"src="./style/img/convo/plaatj.png">
 
         </div>
         <!-- voordelen van -->
@@ -78,32 +78,7 @@
 <!-- Conclusie -->
 <div class="conclusie"></div>
 
-    <!-- <div style="  visibility: hidden;" id="convo5" class=" containerSVGLeft">
-        <img src="./style/img/convo/8.png" alt="poes">
-        <img src="./style/img/convo/5.svg" alt="poes" class="">
 
-    </div>
-
-
-    <div style="  visibility: hidden;" id="convo6" class="containerSVG">
-        <img src="./style/img/convo/6.svg" alt="poes" class="">
-
-        <img src="./style/img/convo/9.png" alt="poes" class="">
-    </div>
-
-
-    <div style="  visibility: hidden;" id="convo7" class="containerSVGLeft">
-        <img src="./style/img/convo/10.png" alt="poes">
-        <img style="height: 22vh;
-    margin-top: 6vh;" src="./style/img/convo/7.svg" alt="poes" class="">
-
-    </div>
-
-    <div style="  visibility: hidden;" id="convo8" class=" convoRight">
-        <img src="./style/img/convo/11.png" alt="poes" class="">
-    </div> -->
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
     <script src="./style/js/main.js" crossorigin="anonymous"></script>
